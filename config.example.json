@@ -1,0 +1,18 @@
+{
+  "exits": [
+    {
+      "name": "wired",
+      "interface": "以太网",
+      "source_ip": "",
+      "dns": "",
+      "portal_url": "http://100.100.100.2/gportal/web/login?wlanacname=GIWIFI-BAS"
+    },
+    {
+      "name": "wifi",
+      "interface": "WLAN",
+      "source_ip": "",
+      "dns": "",
+      "portal_url": ""
+    }
+  ]
+}

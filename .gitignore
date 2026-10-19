@@ -1,0 +1,7 @@
+.tools/
+.cache/
+bin/
+config.local.json
+*.part
+*.exe
+downloads/
